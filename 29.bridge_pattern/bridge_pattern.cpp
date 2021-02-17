@@ -124,9 +124,6 @@ public:
     }
 };
 
-
-
-
 int main()
 {
     cout<<"main func"<<endl;
